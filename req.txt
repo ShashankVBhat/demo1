@@ -1,10 +1,1 @@
- Volume in drive H is New Volume
- Volume Serial Number is BC8D-87D6
-
- Directory of H:\Git-Tutorials\test2
-
-01-03-2021  18:03    <DIR>          .
-01-03-2021  18:03    <DIR>          ..
-01-03-2021  18:03                 0 req.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  34,724,126,720 bytes free
+tensorflow
